@@ -1,0 +1,7 @@
+/home/user/opsfinal:
+Filename:prog1.c
+Filename:l1-1.c
+/home/user/opsfinal/lab1_task2:
+Filename:main.c
+/home/user/opsfinal/.vscode:
+Depth: 2
