@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
-
+//strcspn
 int main(int argc, char**argv)
 {
     int num[5]={1, 2, 3, 4 ,5};
